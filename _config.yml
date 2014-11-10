@@ -1,0 +1,24 @@
+name: "Jennifer Davis"
+blog_username: "CoffeeOps"
+email: iennae@gmail.com
+description: "CoffeeOps can happen anywhere anytime! Bringing on the Age of Delightenment fueled by coffee and collaboration across companies and groups. Coffeehouses were places people gather, share thoughts, learn about current happenings, and discuss their current challenges."
+
+baseurl: ""
+url: "http://www.coffeeops.org"
+timezone: America/Los_Angeles
+twitter_username: sigje
+github_username: iennae
+flickr_username: iennae
+
+exclude:
+    - Gemfile
+    - Gemfile.lock
+    - LICENSE
+    - README.md
+
+# Build Settings
+markdown: redcarpet
+permalink: pretty
+highlighter: pygments
+lsi: false
+excerpt_separator: "\n\n"
