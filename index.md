@@ -3,6 +3,8 @@ title: CoffeeOps
 layout: default
 ---
 
+# CoffeeOps
+
 Bringing on the Age of Delightenment fueled by coffee and collaboration across companies and groups. Coffeehouses were places people gather, share thoughts, learn about current happenings, and discuss their current challenges.
 
 
