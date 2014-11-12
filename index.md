@@ -11,10 +11,11 @@ Bringing on the Age of Delightenment fueled by coffee and collaboration across c
 ## Local Meetups
 
 
-* Thursday 8-10am Chromatic Coffee, Santa Clara - ping folks on Twitter
-* [LA DevOps Thursdays](http://www.meetup.com/ladevops/events/218067202/)
+* Thursday 8-10am Chromatic Coffee, Santa Clara - ping folks on Twitter [ @sigje ](https://twitter.com/sigje)[ @davedash ](https://twitter.com/davedash)[ @nekodojo ](https://twitter.com/nekodojo)[ @parabuzzle ](https://twitter.com/parabuzzle)
+* [LA DevOps Thursdays](http://www.meetup.com/ladevops/events/218067202/) Twitter: [@solarce](https://twitter.com/solarce)
 * Boston/Cambridge - Details soon. First event November 20, 2014
-* Friday 7am Journal Cafe Little Flinders St Melbourne November 14, 2014 Twitter:@geekle
+* Friday 7am Journal Cafe Little Flinders St Melbourne November 14, 2014 Twitter:[@geekle](https://twitter.com/geekle)
+* Group forming! Sydney Twitter: [@bryceflux](https://twitter.com/bryceflux)
 
 ## Upcoming Adhoc Events</h2>
 
