@@ -11,13 +11,30 @@ Bringing on the Age of Delightenment fueled by coffee and collaboration across c
 ## Local Meetups
 
 
-* Thursday 8-10am Chromatic Coffee, Santa Clara - ping folks on Twitter [ @sigje ](https://twitter.com/sigje)[ @davedash ](https://twitter.com/davedash)[ @nekodojo ](https://twitter.com/nekodojo)[ @parabuzzle ](https://twitter.com/parabuzzle)
-* [LA DevOps Thursdays](http://www.meetup.com/ladevops/events/218067202/) Twitter: [@solarce](https://twitter.com/solarce)
-* Boston/Cambridge - Details soon. First event November 20, 2014
-* Friday 7am Journal Cafe Little Flinders St Melbourne November 14, 2014 Twitter:[@geekle](https://twitter.com/geekle)
-* Group forming! Sydney Twitter: [@bryceflux](https://twitter.com/bryceflux)
+* Thursday 8-10am Chromatic Coffee, Santa Clara - ping folks on Twitter   
+  Regular Participants:
+    [ @sigje ](https://twitter.com/sigje)
+    [ @davedash ](https://twitter.com/davedash)
+    [ @nekodojo ](https://twitter.com/nekodojo)
+    [ @parabuzzle ](https://twitter.com/parabuzzle)
 
-## Upcoming Adhoc Events</h2>
+* [LA DevOps Thursdays](http://www.meetup.com/ladevops/events/218067202/) 
+  Coordinator:
+    [@solarce](https://twitter.com/solarce)
+
+* Boston/Cambridge - Details soon. First event November 20, 2014
+
+* Friday 7am Journal Cafe Little Flinders St Melbourne November 14, 2014 
+  Coordinator:
+    [@geekle](https://twitter.com/geekle)
+
+* Group forming! Sydney 
+  Coordinator:
+    [@bryceflux](https://twitter.com/bryceflux)
+
+
+
+## Upcoming Adhoc Events
 
 * LISA 2014 - Seattle
  * Monday, November 10 - Cafe ABoDegas 
@@ -26,3 +43,5 @@ Bringing on the Age of Delightenment fueled by coffee and collaboration across c
 
 
 Additionally, there is a CoffeeOps team on Slack. Ping @sigje on twitter for an invite.
+
+Have an event to add to the site? Fork, Update and PR: https://github.com/CoffeeOps/coffeeops.github.io
