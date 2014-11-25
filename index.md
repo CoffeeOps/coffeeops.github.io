@@ -3,12 +3,22 @@ title: CoffeeOps
 layout: default
 ---
 
-# CoffeeOps
+<h1>CoffeeOps</h1>
 
 Bringing on the Age of Delightenment fueled by coffee and collaboration across companies and groups. Coffeehouses were places people gather, share thoughts, learn about current happenings, and discuss their current challenges.
 
 
-## Local Meetups
+
+<h2> Santa Clara, California</h2>
+
+<b>Next Meeting:</b>
+
+* 8am, November 26, 2014 - [Chromatic Coffee, Santa Clara](http://www.yelp.com/biz/chromatic-coffee-santa-clara) 
+
+
+
+
+<h2>Local Meetups</h2>
 
 
 * Thursday 8-10am Chromatic Coffee, Santa Clara - ping folks on Twitter   
@@ -22,7 +32,7 @@ Bringing on the Age of Delightenment fueled by coffee and collaboration across c
   Coordinator:
     [@solarce](https://twitter.com/solarce)
 
-* Boston/Cambridge - Details soon. First event November 20, 2014
+* Boston/Cambridge ping [@petecheslock](https://twitter.com/petecheslock)
 
 * Friday 7am Journal Cafe Little Flinders St Melbourne November 14, 2014 
   Coordinator:
@@ -36,10 +46,6 @@ Bringing on the Age of Delightenment fueled by coffee and collaboration across c
 
 ## Upcoming Adhoc Events
 
-* LISA 2014 - Seattle
- * Monday, November 10 - Cafe ABoDegas 
- * 8am Wednesday, November 12 - Daily Grill 
-* DevOpsDays Vancouver 2014
 
 
 Additionally, there is a CoffeeOps team on Slack. Ping @sigje on twitter for an invite.
