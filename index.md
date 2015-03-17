@@ -11,10 +11,10 @@ Bringing on the Age of Delightenment fueled by coffee and collaboration across c
 
 <h2> Santa Clara, California</h2>
 
-<b>Next Meeting:</b>
-
 * 8am, TBA - [Chromatic Coffee, Santa Clara](http://www.yelp.com/biz/chromatic-coffee-santa-clara)
 
+<h2> Seattle, Washington </h2>
+* [Location, and times found on Meetup](http://www.meetup.com/Downtown-Seattle-Friday-Morning-CoffeeOps/)
 
 
 
@@ -34,9 +34,13 @@ Bringing on the Age of Delightenment fueled by coffee and collaboration across c
 
 * Boston/Cambridge ping [@petecheslock](https://twitter.com/petecheslock)
 
-* Friday 7am Journal Cafe Little Flinders St Melbourne November 14, 2014
+* Friday 7am Journal Cafe Little Flinders St Melbourne 
   Coordinator:
     [@geekle](https://twitter.com/geekle)
+
+* Friday 8am Seattle 
+  Coordinator:
+    [@dougireton](https://twitter.com/dougireton)
 
 * Group forming! Sydney
   Coordinator:
