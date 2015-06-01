@@ -42,7 +42,7 @@ Bringing on the Age of Delightenment fueled by coffee and collaboration across c
   Coordinator:
     [@dougireton](https://twitter.com/dougireton)
 
-* Sydney, Australia: 7-9am First Tues of every Month @ [Table 60](https://goo.gl/RinIFT) - [iCal](goo.gl/CNo9eB) 
+* Tuesday 7am (First Tues of the Month) in Sydney, Australia 7am @ [Table 60](https://goo.gl/RinIFT) - [iCal](goo.gl/CNo9eB) 
   Coordinators:
     [@drewkhoury](https://twitter.com/drewkhoury), [@bryceflux](https://twitter.com/bryceflux)
 
