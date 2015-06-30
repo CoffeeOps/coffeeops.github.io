@@ -11,21 +11,23 @@ Coffeehouses are hubs of information sharing, places people gather, share though
 <p>
 Coffeeops aims to bring on the Age of Delightenment fueled by coffee (tea or cocoa!), collaboration and cooperation across companies. Coffeeops should be considered part of work, a critical part of preventing stagnation and isolation of the daily grind and help build resilience. Conferences provide some amount of this but are limited in duration and can be too costly for an individual in time and money. </p>
 
-<p> The bigger your company, the more likely you need regular infusions of external input.</p>
+<p> The bigger your company, the more likely you need regular infusions of external input. Groups working within an environment can fail to recognize other ways of doing things, ignoring trends in the industry duplicating efforts and expending time and energy in areas that are not business differentiators.</p>
 
-<p>   If there isn't a local Coffeeops already happening in your area, start one! 
+<p>If there isn't a local Coffeeops already happening in your area, start one! 
 </p> 
 
 
 <h2>Local Meetups</h2>
 
 
-* Santa Clara
+* Santa Clara, California
   Coordinators:
     [ @sigje ](https://twitter.com/sigje)
     [ @davedash ](https://twitter.com/davedash)
     [ @nekodojo ](https://twitter.com/nekodojo)
     [ @parabuzzle ](https://twitter.com/parabuzzle)
+
+* East Bay, California Coorindator: [@jamfish728](https://twitter.com/jamfish728)
 
 * [LA DevOps Thursdays](http://www.meetup.com/ladevops/events/218067202/)
   Coordinator:
