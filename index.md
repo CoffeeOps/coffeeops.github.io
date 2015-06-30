@@ -5,12 +5,12 @@ layout: default
 
 <h1>CoffeeOps</h1>
 
-Coffeeops aims to bring on the Age of Delightenment fueled by coffee (tea or cocoa!), collaboration and cooperation across companies.
-
+<p>  
 Coffeehouses are hubs of information sharing, places people gather, share thoughts, learn about happenings, and discuss challenges. There is a large amount of diversity and experiences that can impact and improve ideas and problem solving. 
-
-
-Coffeeops should be considered part of work, a critical part of preventing stagnation and isolation of the daily grind and help build resilience. The bigger your company, the more likely you need regular infusions of external input. Coffeeops was started and held at Chromatic Coffee in Santa Clara. 
+</p>
+<p>
+Coffeeops aims to bring on the Age of Delightenment fueled by coffee (tea or cocoa!), collaboration and cooperation across companies. Coffeeops should be considered part of work, a critical part of preventing stagnation and isolation of the daily grind and help build resilience. The bigger your company, the more likely you need regular infusions of external input. If there isn't a local Coffeeops already happening in your area, start one! 
+</p> 
 
 
 <h2>Local Meetups</h2>
