@@ -5,24 +5,19 @@ layout: default
 
 <h1>CoffeeOps</h1>
 
-Bringing on the Age of Delightenment fueled by coffee and collaboration across companies and groups. Coffeehouses were places people gather, share thoughts, learn about current happenings, and discuss their current challenges.
+Coffeeops aims to bring on the Age of Delightenment fueled by coffee (tea or cocoa!), collaboration and cooperation across companies.
+
+Coffeehouses are hubs of information sharing, places people gather, share thoughts, learn about happenings, and discuss challenges. There is a large amount of diversity and experiences that can impact and improve ideas and problem solving. 
 
 
-
-<h2> Santa Clara, California</h2>
-
-* 8am, TBA - [Chromatic Coffee, Santa Clara](http://www.yelp.com/biz/chromatic-coffee-santa-clara)
-
-<h2> Seattle, Washington </h2>
-* [Location, and times found on Meetup](http://www.meetup.com/Downtown-Seattle-Friday-Morning-CoffeeOps/)
-
+Coffeeops should be considered part of work, a critical part of preventing stagnation and isolation of the daily grind and help build resilience. The bigger your company, the more likely you need regular infusions of external input. Coffeeops was started and held at Chromatic Coffee in Santa Clara. 
 
 
 <h2>Local Meetups</h2>
 
 
-* Thursday 8-10am Chromatic Coffee, Santa Clara - ping folks on Twitter
-  Regular Participants:
+* Santa Clara
+  Coordinators:
     [ @sigje ](https://twitter.com/sigje)
     [ @davedash ](https://twitter.com/davedash)
     [ @nekodojo ](https://twitter.com/nekodojo)
@@ -32,24 +27,28 @@ Bringing on the Age of Delightenment fueled by coffee and collaboration across c
   Coordinator:
     [@solarce](https://twitter.com/solarce)
 
-* Boston/Cambridge ping [@petecheslock](https://twitter.com/petecheslock)
+* Boston/Cambridge Coordinator: [@petecheslock](https://twitter.com/petecheslock)
 
-* Friday 7am Journal Cafe Little Flinders St Melbourne 
+* Melbourne, Australia 
   Coordinator:
     [@geekle](https://twitter.com/geekle)
 
-* Friday 8am Seattle 
+* [Seattle](http://www.meetup.com/Downtown-Seattle-Friday-Morning-CoffeeOps/) 
   Coordinator:
     [@dougireton](https://twitter.com/dougireton)
 
-* Tuesday 7am (First Tues of the Month) in Sydney, Australia 7am @ [Table 60](https://goo.gl/RinIFT) - [iCal](goo.gl/CNo9eB) 
+* Sydney, Australia Tuesday 7am (First Tues of the Month) in 7am @ [Table 60](https://goo.gl/RinIFT) - [iCal](goo.gl/CNo9eB) 
   Coordinators:
     [@drewkhoury](https://twitter.com/drewkhoury), [@bryceflux](https://twitter.com/bryceflux)
 
 
 
-## Upcoming Adhoc Events
+<h2>FAQ</h2>
 
+* <b>Are there rules for coffeeops?</b> No. Each group self organizes and sets the process and agenda (if any).</li>
+
+* <b>How do I organize a local coffeeops?</b> Reach out to community through twitter and any local email lists and see who is interested. Pick a time and date and a place with a good environment for talking. Depending on the size of your group, let the venue know ahead of time about the size of your group. Update this website or let [ @sigje ](https://twitter.com/sigje) know.
+    
 **Have an event to add to the site? Fork, Update, and Send a Pull Request:**
 
 **[https://github.com/CoffeeOps/coffeeops.github.io](https://github.com/CoffeeOps/coffeeops.github.io)**
