@@ -42,9 +42,9 @@ Bringing on the Age of Delightenment fueled by coffee and collaboration across c
   Coordinator:
     [@dougireton](https://twitter.com/dougireton)
 
-* Group forming! Sydney
-  Coordinator:
-    [@bryceflux](https://twitter.com/bryceflux)
+* Tuesday 7am (First Tues of the Month) in Sydney, Australia 7am @ [Table 60](https://goo.gl/RinIFT) - [iCal](goo.gl/CNo9eB) 
+  Coordinators:
+    [@drewkhoury](https://twitter.com/drewkhoury), [@bryceflux](https://twitter.com/bryceflux)
 
 
 
