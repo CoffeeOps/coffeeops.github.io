@@ -6,7 +6,7 @@ layout: default
 <h1>CoffeeOps</h1>
 
 <p>  
-Coffeehouses are hubs of information sharing, places people gather, share thoughts, learn about happenings, and discuss challenges. There is a large amount of diversity of experiences that can impact and improve ideas and problem solving.  
+Coffeehouses are hubs of information sharing, places people gather, share thoughts, learn about happenings, and discuss challenges. Having a place and time to congregate allows for the sharing of experiences from diverse backgrounds that can inspire, improve ideas, impact decisions and problem solving.  
 </p>
 
 
