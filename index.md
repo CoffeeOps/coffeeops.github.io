@@ -31,7 +31,7 @@ Coffeeops aims to bring on the Age of Delightenment fueled by coffee (tea or coc
     [ @nekodojo ](https://twitter.com/nekodojo)
     [ @parabuzzle ](https://twitter.com/parabuzzle)
 
-* East Bay, California Coordinator: [@jamfish728](https://twitter.com/jamfish728)
+* East Bay and San Francisco, California Coordinator: [@jamfish728](https://twitter.com/jamfish728)
 
 * [LA DevOps Thursdays](http://www.meetup.com/ladevops/events/218067202/)
   Coordinator:
