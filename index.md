@@ -51,6 +51,8 @@ Coffeeops aims to bring on the Age of Delightenment fueled by coffee (tea or coc
   Coordinators:
     [@drewkhoury](https://twitter.com/drewkhoury), [@bryceflux](https://twitter.com/bryceflux)
 
+* Portland, OR Coordinator: [@BillWeiss](https://twitter.com/BillWeiss) -- still looking for times and locations!  Please contact if you want to join in!
+
 
 
 <h2>FAQ</h2>
