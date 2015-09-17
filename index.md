@@ -53,6 +53,10 @@ Coffeeops aims to bring on the Age of Delightenment fueled by coffee (tea or coc
 
 * Portland, OR Coordinator: [@BillWeiss](https://twitter.com/BillWeiss) -- still looking for times and locations!  Please contact if you want to join in!
 
+* Pittsburgh, PA
+  Coordinator:
+    [@caseywest](https://twitter.com/caseywest) — Sprint Zero: Looking for interest, times, and places. Contact on Twitter if you're interested!
+
 
 
 <h2>FAQ</h2>
