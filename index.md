@@ -57,6 +57,9 @@ Coffeeops aims to bring on the Age of Delightenment fueled by coffee (tea or coc
   Coordinator:
     [@caseywest](https://twitter.com/caseywest) — Sprint Zero: Looking for interest, times, and places. Contact on Twitter if you're interested!
 
+* Alpharetta, GA  Check [Meetup](http://www.meetup.com/Alpharetta-CoffeeOps/) for details.
+  Coordinator:
+    [@tmhall99](https://twitter.com/tmhall99)
 
 
 <h2>FAQ</h2>
