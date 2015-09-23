@@ -61,6 +61,9 @@ Coffeeops aims to bring on the Age of Delightenment fueled by coffee (tea or coc
   Coordinator:
     [@tmhall99](https://twitter.com/tmhall99)
 
+* Boulder, CO
+  Coordinator:
+    [@guildner](https://twitter.com/guildner)
 
 <h2>FAQ</h2>
 
