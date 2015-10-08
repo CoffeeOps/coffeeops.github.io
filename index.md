@@ -61,7 +61,7 @@ Coffeeops aims to bring on the Age of Delightenment fueled by coffee (tea or coc
   Coordinator:
     [@tmhall99](https://twitter.com/tmhall99)
 
-* Boulder, CO
+* Boulder, CO See our calendar for upcoming meetings. [html](https://www.google.com/calendar/embed?src=m2n8ubnat9sbluu52majc7ahcs%40group.calendar.google.com&ctz=America/Denver) [iCal](https://www.google.com/calendar/ical/m2n8ubnat9sbluu52majc7ahcs%40group.calendar.google.com/public/basic.ics)
   Coordinator:
     [@guildner](https://twitter.com/guildner)
 
