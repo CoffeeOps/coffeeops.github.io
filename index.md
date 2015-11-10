@@ -45,7 +45,7 @@ Coffeeops aims to bring on the Age of Delightenment fueled by coffee (tea or coc
 
 * [Seattle](http://www.meetup.com/Downtown-Seattle-Friday-Morning-CoffeeOps/) 
   Coordinator:
-    [@dougireton](https://twitter.com/dougireton)
+    [@dougireton](https://twitter.com/dougireton) [Calendar](http://www.meetup.com/Downtown-Seattle-Friday-Morning-CoffeeOps/)
 
 * Sydney, Australia Tuesday 7am (First Tues of the Month) in 7am @ [Table 60](https://goo.gl/RinIFT) - [iCal](goo.gl/CNo9eB) 
   Coordinators:
