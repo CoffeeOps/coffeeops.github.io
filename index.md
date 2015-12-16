@@ -53,7 +53,7 @@ Coffeeops aims to bring on the Age of Delightenment fueled by coffee (tea or coc
   Coordinators:
     [@drewkhoury](https://twitter.com/drewkhoury), [@bryceflux](https://twitter.com/bryceflux)
 
-* Portland, OR Coordinator: [@BillWeiss](https://twitter.com/BillWeiss) -- still looking for times and locations!  Please contact if you want to join in!
+* Portland, OR Coordinator: [@BillWeiss](https://twitter.com/BillWeiss) -- First Wednesday of the month, 7:30-9AM, at [Cup and Bar](http://www.cupandbar.com/).
 
 * Pittsburgh, PA ([Calendar](http://cwe.st/coffeeopspghcal), [#CoffeeOpsPgh](https://twitter.com/search?q=%23CoffeeOpsPgh));
     DM [@caseywest](https://twitter.com/caseywest) for a [Slack team](https://coffeeopspgh.slack.com) invite.
