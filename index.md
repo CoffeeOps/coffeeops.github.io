@@ -55,8 +55,9 @@ Coffeeops aims to bring on the Age of Delightenment fueled by coffee (tea or coc
 
 * Portland, OR Coordinator: [@BillWeiss](https://twitter.com/BillWeiss) -- First Wednesday of the month, 7:30-9AM, at [Cup and Bar](http://www.cupandbar.com/).
 
-* Pittsburgh, PA ([Calendar](http://cwe.st/coffeeopspghcal), [#CoffeeOpsPgh](https://twitter.com/search?q=%23CoffeeOpsPgh));
-    DM [@caseywest](https://twitter.com/caseywest) for a [Slack team](https://coffeeopspgh.slack.com) invite.
+* Pittsburgh, PA 7:30-9:30am every second Thursday of the month at [21st Street Coffee](https://twitter.com/21street_strip)!<br/>
+    Subscribe to our [calendar](http://cwe.st/coffeeopspghcal). Hashtag [#CoffeeOpsPgh](https://twitter.com/search?q=%23CoffeeOpsPgh).<br/>
+    DM [@caseywest](https://twitter.com/caseywest) on Twitter for a [Slack team](https://coffeeopspgh.slack.com) invite.
 
 * Alpharetta, GA  Check [Meetup](http://www.meetup.com/Alpharetta-CoffeeOps/) for details.
   Coordinator:
