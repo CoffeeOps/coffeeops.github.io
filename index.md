@@ -67,6 +67,10 @@ Coffeeops aims to bring on the Age of Delightenment fueled by coffee (tea or coc
   Coordinator:
     [@guildner](https://twitter.com/guildner)
 
+* Auckland, New Zealand 
+  Coordinator:
+    [@DefSol](https://twitter.com/DefSol)
+
 <h2>FAQ</h2>
 
 * <b>Are there rules or a specific format for coffeeops?</b> No. Each group self organizes and sets the process and agenda (if any). Some groups like Seattle, pre-plan with a specific topic. Other groups like Santa Clara have more ad hoc meetings that are arranged via Twitter and Slack. </li>
