@@ -19,6 +19,6 @@ exclude:
 # Build Settings
 markdown: kramdown
 permalink: pretty
-highlighter: pygments
+highlighter: rouge
 lsi: false
 excerpt_separator: "\n\n"
