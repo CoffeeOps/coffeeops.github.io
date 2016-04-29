@@ -71,6 +71,15 @@ Coffeeops aims to bring on the Age of Delightenment fueled by coffee (tea or coc
   Coordinator:
     [@DefSol](https://twitter.com/DefSol)
 
+| Location                  | Details                                                                                   | Coordinators   |   |   |
+|---------------------------|-------------------------------------------------------------------------------------------|----------------|---|---|
+| Santa Clara, California   | Meets every Wednesday morning at 8am at Big Mug Coffee Roaster, 3014 El Camino Real.      | Jennifer Davis             |   |   |
+| East Bay, California      |                                                                                           | Jamesha Fisher |   |   |
+| San Francisco, California |                                                                                           | Jamesha Fisher |   |   |
+| Los Angeles, California   | http://www.meetup.com/ladevops/                                                           | Brandon Burton |   |   |
+| Melbourne, Australia      |                                                                                           |                |   |   |
+| Seattle, Washington       | Bi-weekly on Friday, http://www.meetup.com/Downtown-Seattle-Friday-Morning-CoffeeOps/     | Doug Ireton    |   |   |
+| Beaverton, Oregon         | 2nd Wednesday of every month http://www.meetup.com/Beaverton-Wednesday-Morning-CoffeeOps/ |                |   |   |
 <h2>FAQ</h2>
 
 * <b>Are there rules or a specific format for coffeeops?</b> No. Each group self organizes and sets the process and agenda (if any). Some groups like Seattle, pre-plan with a specific topic. Other groups like Santa Clara have more ad hoc meetings that are arranged via Twitter and Slack. </li>
