@@ -24,12 +24,12 @@ Coffeeops aims to bring on the Age of Delightenment fueled by coffee (tea or coc
 <h2>Local Meetups</h2>
 
 
-* Santa Clara, California
+* Santa Clara, California 
+  Meets every Wednesday morning at 8am at Big Mug Coffee Roaster, 3014 El Camino Real.
   Coordinators:
     [ @sigje ](https://twitter.com/sigje)
     [ @davedash ](https://twitter.com/davedash)
     [ @nekodojo ](https://twitter.com/nekodojo)
-    [ @parabuzzle ](https://twitter.com/parabuzzle)
 
 * East Bay and San Francisco, California Coordinator: [@jamfish728](https://twitter.com/jamfish728) [Calendar](https://t.co/3G6CpHF82k) [Mailing List](https://t.co/GKu1DrBDGj)
 
