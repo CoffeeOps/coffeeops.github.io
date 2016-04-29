@@ -47,7 +47,7 @@ Coffeeops aims to bring on the Age of Delightenment fueled by coffee (tea or coc
   </tr>
   <tr>
     <td class="tg-yw4l">San Francisco, California</td>
-    <td class="tg-yw4l"></td>
+    <td class="tg-yw4l"><a href="https://t.co/3G6CpHF82k">Calendar</a></td>
     <td class="tg-yw4l"><a href="https://twitter.com/jamfish728">@jamfish728</a></td>
   </tr>
   <tr>
