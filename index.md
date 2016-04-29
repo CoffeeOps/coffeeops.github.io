@@ -82,7 +82,7 @@ Coffeeops aims to bring on the Age of Delightenment fueled by coffee (tea or coc
   </tr>
   <tr>
     <td class="tg-yw4l">Pittsburgh, Pennsylvania</td>
-    <td class="tg-yw4l">7:30-9:30am every second Thursday of the month at <a href="https://twitter.com/21street_strip">21st Street Coffee</a>!,Subscribe to our <a href="http://cwe.st/coffeeopspghcal">calendar</a>. Hashtag <a href="https://twitter.com/search?q=%23CoffeeOpsPgh">#CoffeeOpsPgh</a>.</td>
+    <td class="tg-yw4l">7:30-9:30am every second Thursday of the month at <a href="https://twitter.com/21street_strip">21st Street Coffee</a>!<Br> Subscribe to our <a href="http://cwe.st/coffeeopspghcal">calendar</a>. Hashtag <a href="https://twitter.com/search?q=%23CoffeeOpsPgh">#CoffeeOpsPgh</a>.</td>
     <td class="tg-yw4l"><a href="https://twitter.com/caseywest">@caseywest</a></td>
   </tr>
   <tr>
@@ -92,18 +92,18 @@ Coffeeops aims to bring on the Age of Delightenment fueled by coffee (tea or coc
   </tr>
   <tr>
     <td class="tg-yw4l">Boulder, Colorado</td>
-    <td class="tg-yw4l">[html](https://www.google.com/calendar/embed?src=m2n8ubnat9sbluu52majc7ahcs%40group.calendar.google.com&amp;ctz=America/Denver) [iCal](https://www.google.com/calendar/ical/m2n8ubnat9sbluu52majc7ahcs%40group.calendar.google.com/public/basic.ics)</td>
-    <td class="tg-yw4l">[@guildner](https://twitter.com/guildner)</td>
+    <td class="tg-yw4l"><a href="https://www.google.com/calendar/embed?src=m2n8ubnat9sbluu52majc7ahcs%40group.calendar.google.com&amp;ctz=America/Denver">html</a> <a href="https://www.google.com/calendar/ical/m2n8ubnat9sbluu52majc7ahcs%40group.calendar.google.com/public/basic.ics">iCal</a></td>
+    <td class="tg-yw4l"><a href="https://twitter.com/guildner">@guildner</a></td>
   </tr>
   <tr>
     <td class="tg-yw4l">Auckland, New Zealand</td>
     <td class="tg-yw4l"></td>
-    <td class="tg-yw4l">[@DefSol](https://twitter.com/DefSol)</td>
+    <td class="tg-yw4l"><a href="https://twitter.com/DefSol">@DefSol</a></td>
   </tr>
   <tr>
     <td class="tg-yw4l">Boston, Massachusetts</td>
     <td class="tg-yw4l"></td>
-    <td class="tg-yw4l">[@petecheslock](https://twitter.com/petecheslock) and [@peternealon](https://twitter.com/peternealon)</td>
+    <td class="tg-yw4l"><a href="https://twitter.com/petecheslock">@petecheslock</a> and <a href="https://twitter.com/peternealon">@peternealon</a></td>
   </tr>
 </table>
 <h2>FAQ</h2>
