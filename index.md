@@ -71,15 +71,94 @@ Coffeeops aims to bring on the Age of Delightenment fueled by coffee (tea or coc
   Coordinator:
     [@DefSol](https://twitter.com/DefSol)
 
-| Location                  | Details                                                                                   | Coordinators   |   |   |
-|---------------------------|-------------------------------------------------------------------------------------------|----------------|---|---|
-| Santa Clara, California   | Meets every Wednesday morning at 8am at Big Mug Coffee Roaster, 3014 El Camino Real.      | Jennifer Davis             |   |   |
-| East Bay, California      |                                                                                           | Jamesha Fisher |   |   |
-| San Francisco, California |                                                                                           | Jamesha Fisher |   |   |
-| Los Angeles, California   | http://www.meetup.com/ladevops/                                                           | Brandon Burton |   |   |
-| Melbourne, Australia      |                                                                                           |                |   |   |
-| Seattle, Washington       | Bi-weekly on Friday, http://www.meetup.com/Downtown-Seattle-Friday-Morning-CoffeeOps/     | Doug Ireton    |   |   |
-| Beaverton, Oregon         | 2nd Wednesday of every month http://www.meetup.com/Beaverton-Wednesday-Morning-CoffeeOps/ |                |   |   |
+LaTeX Tables
+HTML Tables
+Text Tables
+Markdown Tables
+MediaWiki Tables
+Contact
+Markdown Tables Generator Facebook222 Twitter
+File 
+Edit 
+Table 
+Column 
+Row 
+Help 
+Show Example
+  
+A	B	C
+1	
+Location
+Details
+Coordinators
+2	
+Santa Clara, California
+Meets every Wednesday morning at 8am at Big Mug Coffee Roaster, 3014 El Camino Real.
+3	
+East Bay, California
+[@jamfish728](https://twitter.com/jamfish728)
+4	
+San Francisco, California
+[@jamfish728](https://twitter.com/jamfish728)
+5	
+Los Angeles, California
+http://www.meetup.com/ladevops/
+[@solarce](https://twitter.com/solarce)
+6	
+Melbourne, Australia
+[@geekle](https://twitter.com/geekle)
+7	
+Seattle, Washington
+Bi-weekly on Friday,[Calendar](http://www.meetup.com/Downtown-Seattle-Friday-Morning-CoffeeOps/)
+[@dougireton](https://twitter.com/dougireton)
+8	
+Beaverton, Oregon
+2nd Wednesday of every month http://www.meetup.com/Beaverton-Wednesday-Morning-CoffeeOps/
+9	
+Sydney, Australia
+Tuesday 7am (First Tues of the Month) in 7am @ [Table 60](https://goo.gl/RinIFT) - [iCal](http://goo.gl/CNo9eB)
+[@drewkhoury](https://twitter.com/drewkhoury), [@bryceflux](https://twitter.com/bryceflux)
+10	
+Portland, Oregon
+Cup & Bar 
+[@BillWeiss](https://twitter.com/BillWeiss)
+11	
+Pittsburgh, Pennsylvania
+7:30-9:30am every second Thursday of the month at [21st Street Coffee](https://twitter.com/21street_strip)!,Subscribe to our [calendar](http://cwe.st/coffeeopspghcal). Hashtag [#CoffeeOpsPgh](https://twitter.com/search?q=%23CoffeeOpsPgh).
+[@caseywest](https://twitter.com/caseywest)
+12	
+Alpharetta, Georgia
+[Meetup](http://www.meetup.com/Alpharetta-CoffeeOps/)
+[@tmhall99](https://twitter.com/tmhall99)
+13	
+Boulder, Colorado
+[html](https://www.google.com/calendar/embed?src=m2n8ubnat9sbluu52majc7ahcs%40group.calendar.google.com&ctz=America/Denver) [iCal](https://www.google.com/calendar/ical/m2n8ubnat9sbluu52majc7ahcs%40group.calendar.google.com/public/basic.ics)
+[@guildner](https://twitter.com/guildner)
+14	
+Auckland, New Zealand
+[@DefSol](https://twitter.com/DefSol)
+15	
+Boston, Massachusetts
+[@petecheslock](https://twitter.com/petecheslock) and [@peternealon](https://twitter.com/peternealon)
+ GeneratePut tabs between columnsCompact mode
+Result (click "Generate" to refresh) Copy to clipboard
+| Location                  | Details                                                                                                                                                                                                                                          | Coordinators                                                                                          |
+|---------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------|
+| Santa Clara, California   | Meets every Wednesday morning at 8am at Big Mug Coffee Roaster, 3014 El Camino Real.                                                                                                                                                             |                                                                                                       |
+| East Bay, California      |                                                                                                                                                                                                                                                  | [@jamfish728](https://twitter.com/jamfish728)                                                         |
+| San Francisco, California |                                                                                                                                                                                                                                                  | [@jamfish728](https://twitter.com/jamfish728)                                                         |
+| Los Angeles, California   | http://www.meetup.com/ladevops/                                                                                                                                                                                                                  | [@solarce](https://twitter.com/solarce)                                                               |
+| Melbourne, Australia      |                                                                                                                                                                                                                                                  | [@geekle](https://twitter.com/geekle)                                                                 |
+| Seattle, Washington       | Bi-weekly on Friday,[Calendar](http://www.meetup.com/Downtown-Seattle-Friday-Morning-CoffeeOps/)                                                                                                                                                 | [@dougireton](https://twitter.com/dougireton)                                                         |
+| Beaverton, Oregon         | 2nd Wednesday of every month http://www.meetup.com/Beaverton-Wednesday-Morning-CoffeeOps/                                                                                                                                                        |                                                                                                       |
+| Sydney, Australia         | Tuesday 7am (First Tues of the Month) in 7am @ [Table 60](https://goo.gl/RinIFT) - [iCal](http://goo.gl/CNo9eB)                                                                                                                                  | [@drewkhoury](https://twitter.com/drewkhoury), [@bryceflux](https://twitter.com/bryceflux)            |
+| Portland, Oregon          | Cup & Bar                                                                                                                                                                                                                                        | [@BillWeiss](https://twitter.com/BillWeiss)                                                           |
+| Pittsburgh, Pennsylvania  | 7:30-9:30am every second Thursday of the month at [21st Street Coffee](https://twitter.com/21street_strip)!,Subscribe to our [calendar](http://cwe.st/coffeeopspghcal). Hashtag [#CoffeeOpsPgh](https://twitter.com/search?q=%23CoffeeOpsPgh).   | [@caseywest](https://twitter.com/caseywest)                                                           |
+| Alpharetta, Georgia       | [Meetup](http://www.meetup.com/Alpharetta-CoffeeOps/)                                                                                                                                                                                            | [@tmhall99](https://twitter.com/tmhall99)                                                             |
+| Boulder, Colorado         | [html](https://www.google.com/calendar/embed?src=m2n8ubnat9sbluu52majc7ahcs%40group.calendar.google.com&ctz=America/Denver) [iCal](https://www.google.com/calendar/ical/m2n8ubnat9sbluu52majc7ahcs%40group.calendar.google.com/public/basic.ics) | [@guildner](https://twitter.com/guildner)                                                             |
+| Auckland, New Zealand     |                                                                                                                                                                                                                                                  | [@DefSol](https://twitter.com/DefSol)                                                                 |
+| Boston, Massachusetts     |                                                                                                                                                                                                                                                  | [@petecheslock](https://twitter.com/petecheslock) and [@peternealon](https://twitter.com/peternealon) |
+
 <h2>FAQ</h2>
 
 * <b>Are there rules or a specific format for coffeeops?</b> No. Each group self organizes and sets the process and agenda (if any). Some groups like Seattle, pre-plan with a specific topic. Other groups like Santa Clara have more ad hoc meetings that are arranged via Twitter and Slack. </li>
