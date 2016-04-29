@@ -72,23 +72,23 @@ Coffeeops aims to bring on the Age of Delightenment fueled by coffee (tea or coc
   </tr>
   <tr>
     <td class="tg-yw4l">Sydney, Australia</td>
-    <td class="tg-yw4l">Tuesday 7am (First Tues of the Month) in 7am @ [Table 60](https://goo.gl/RinIFT) - [iCal](http://goo.gl/CNo9eB)</td>
-    <td class="tg-yw4l">[@drewkhoury](https://twitter.com/drewkhoury), [@bryceflux](https://twitter.com/bryceflux)</td>
+    <td class="tg-yw4l">Tuesday 7am (First Tues of the Month) in 7am @ <a href="https://goo.gl/RinIFT">Table 60</a> - <a href="http://goo.gl/CNo9eB">iCal</a></td>
+    <td class="tg-yw4l"><a href="https://twitter.com/drewkhoury">@drewkhoury</a>, <a href="https://twitter.com/bryceflux">@bryceflux</a></td>
   </tr>
   <tr>
     <td class="tg-yw4l">Portland, Oregon</td>
     <td class="tg-yw4l">Cup &amp; Bar </td>
-    <td class="tg-yw4l">[@BillWeiss](https://twitter.com/BillWeiss)</td>
+    <td class="tg-yw4l"><a href="https://twitter.com/BillWeiss">@BillWeiss</a></td>
   </tr>
   <tr>
     <td class="tg-yw4l">Pittsburgh, Pennsylvania</td>
-    <td class="tg-yw4l">7:30-9:30am every second Thursday of the month at [21st Street Coffee](https://twitter.com/21street_strip)!,Subscribe to our [calendar](http://cwe.st/coffeeopspghcal). Hashtag [#CoffeeOpsPgh](https://twitter.com/search?q=%23CoffeeOpsPgh).</td>
-    <td class="tg-yw4l">[@caseywest](https://twitter.com/caseywest)</td>
+    <td class="tg-yw4l">7:30-9:30am every second Thursday of the month at <a href="https://twitter.com/21street_strip">21st Street Coffee</a>!,Subscribe to our <a href="http://cwe.st/coffeeopspghcal">calendar</a>. Hashtag <a href="https://twitter.com/search?q=%23CoffeeOpsPgh">#CoffeeOpsPgh</a>.</td>
+    <td class="tg-yw4l"><a href="https://twitter.com/caseywest">@caseywest</a></td>
   </tr>
   <tr>
     <td class="tg-yw4l">Alpharetta, Georgia</td>
-    <td class="tg-yw4l">[Meetup](http://www.meetup.com/Alpharetta-CoffeeOps/)</td>
-    <td class="tg-yw4l">[@tmhall99](https://twitter.com/tmhall99)</td>
+    <td class="tg-yw4l"><a href="http://www.meetup.com/Alpharetta-CoffeeOps/">Meetup</a></td>
+    <td class="tg-yw4l"><a href="https://twitter.com/tmhall99">@tmhall99</a></td>
   </tr>
   <tr>
     <td class="tg-yw4l">Boulder, Colorado</td>
