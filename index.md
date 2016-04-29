@@ -43,31 +43,31 @@ Coffeeops aims to bring on the Age of Delightenment fueled by coffee (tea or coc
   <tr>
     <td class="tg-yw4l">East Bay, California</td>
     <td class="tg-yw4l"></td>
-    <td class="tg-yw4l">[@jamfish728](https://twitter.com/jamfish728)</td>
+    <td class="tg-yw4l"><a href="https://twitter.com/jamfish728">@jamfish728</a></td>
   </tr>
   <tr>
     <td class="tg-yw4l">San Francisco, California</td>
     <td class="tg-yw4l"></td>
-    <td class="tg-yw4l">[@jamfish728](https://twitter.com/jamfish728)</td>
+    <td class="tg-yw4l"><a href="https://twitter.com/jamfish728">@jamfish728</a></td>
   </tr>
   <tr>
     <td class="tg-yw4l">Los Angeles, California</td>
-    <td class="tg-yw4l">http://www.meetup.com/ladevops/</td>
-    <td class="tg-yw4l">[@solarce](https://twitter.com/solarce)</td>
+    <td class="tg-yw4l"><a href="http://www.meetup.com/ladevops/">http://www.meetup.com/ladevops/</a></td>
+    <td class="tg-yw4l"><a href="https://twitter.com/solarce">@solarce</a>]</td>
   </tr>
   <tr>
     <td class="tg-yw4l">Melbourne, Australia</td>
     <td class="tg-yw4l"></td>
-    <td class="tg-yw4l">[@geekle](https://twitter.com/geekle)</td>
+    <td class="tg-yw4l"><a href="https://twitter.com/geekle">@geekle</a></td>
   </tr>
   <tr>
     <td class="tg-yw4l">Seattle, Washington</td>
-    <td class="tg-yw4l">Bi-weekly on Friday,[Calendar](http://www.meetup.com/Downtown-Seattle-Friday-Morning-CoffeeOps/)</td>
-    <td class="tg-yw4l">[@dougireton](https://twitter.com/dougireton)</td>
+    <td class="tg-yw4l">Bi-weekly on Friday,<a href="http://www.meetup.com/Downtown-Seattle-Friday-Morning-CoffeeOps/">Calendar</a></td>
+    <td class="tg-yw4l"><a href="https://twitter.com/dougireton">@dougireton</a></td>
   </tr>
   <tr>
     <td class="tg-yw4l">Beaverton, Oregon</td>
-    <td class="tg-yw4l">2nd Wednesday of every month http://www.meetup.com/Beaverton-Wednesday-Morning-CoffeeOps/</td>
+    <td class="tg-yw4l">2nd Wednesday of every month <a href="http://www.meetup.com/Beaverton-Wednesday-Morning-CoffeeOps/">http://www.meetup.com/Beaverton-Wednesday-Morning-CoffeeOps/</a></td>
     <td class="tg-yw4l"></td>
   </tr>
   <tr>
