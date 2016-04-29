@@ -23,54 +23,6 @@ Coffeeops aims to bring on the Age of Delightenment fueled by coffee (tea or coc
 
 <h2>Local Meetups</h2>
 
-
-* Santa Clara, California 
-  Meets every Wednesday morning at 8am at Big Mug Coffee Roaster, 3014 El Camino Real.
-  Coordinators:
-    [ @sigje ](https://twitter.com/sigje)
-    [ @davedash ](https://twitter.com/davedash)
-    [ @nekodojo ](https://twitter.com/nekodojo)
-
-* East Bay and San Francisco, California Coordinator: [@jamfish728](https://twitter.com/jamfish728) [Calendar](https://t.co/3G6CpHF82k) [Mailing List](https://t.co/GKu1DrBDGj)
-
-* [LA DevOps Thursdays](http://www.meetup.com/ladevops/events/218067202/)
-  Coordinator:
-    [@solarce](https://twitter.com/solarce)
-
-* Boston/Cambridge Coordinator: [@petecheslock](https://twitter.com/petecheslock)
-
-* Melbourne, Australia 
-  Coordinator:
-    [@geekle](https://twitter.com/geekle)
-
-* [Seattle](http://www.meetup.com/Downtown-Seattle-Friday-Morning-CoffeeOps/) 
-  Coordinator:
-    [@dougireton](https://twitter.com/dougireton) [Calendar](http://www.meetup.com/Downtown-Seattle-Friday-Morning-CoffeeOps/)
-
-* [Beaverton, Oregon](http://www.meetup.com/Beaverton-Wednesday-Morning-CoffeeOps/)
-
-* Sydney, Australia Tuesday 7am (First Tues of the Month) in 7am @ [Table 60](https://goo.gl/RinIFT) - [iCal](goo.gl/CNo9eB) 
-  Coordinators:
-    [@drewkhoury](https://twitter.com/drewkhoury), [@bryceflux](https://twitter.com/bryceflux)
-
-* Portland, OR Coordinator: [@BillWeiss](https://twitter.com/BillWeiss) -- still seeking a good time for people, would love to hear from people who want to attend.
-
-* Pittsburgh, PA 7:30-9:30am every second Thursday of the month at [21st Street Coffee](https://twitter.com/21street_strip)!<br/>
-    Subscribe to our [calendar](http://cwe.st/coffeeopspghcal). Hashtag [#CoffeeOpsPgh](https://twitter.com/search?q=%23CoffeeOpsPgh).<br/>
-    DM [@caseywest](https://twitter.com/caseywest) on Twitter for a [Slack team](https://coffeeopspgh.slack.com) invite.
-
-* Alpharetta, GA  Check [Meetup](http://www.meetup.com/Alpharetta-CoffeeOps/) for details.
-  Coordinator:
-    [@tmhall99](https://twitter.com/tmhall99)
-
-* Boulder, CO See our calendar for upcoming meetings. [html](https://www.google.com/calendar/embed?src=m2n8ubnat9sbluu52majc7ahcs%40group.calendar.google.com&ctz=America/Denver) [iCal](https://www.google.com/calendar/ical/m2n8ubnat9sbluu52majc7ahcs%40group.calendar.google.com/public/basic.ics)
-  Coordinator:
-    [@guildner](https://twitter.com/guildner)
-
-* Auckland, New Zealand 
-  Coordinator:
-    [@DefSol](https://twitter.com/DefSol)
-
 | Location                  | Details                                                                                                                                                                                                                                          | Coordinators                                                                                          |
 |---------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------|
 | Santa Clara, California   | Meets every Wednesday morning at 8am at Big Mug Coffee Roaster, 3014 El Camino Real.                                                                                                                                                             |        [ @sigje ](https://twitter.com/sigje) [ @davedash ](https://twitter.com/davedash) [ @nekodojo ](https://twitter.com/nekodojo) |
