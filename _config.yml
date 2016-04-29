@@ -17,7 +17,7 @@ exclude:
     - README.md
 
 # Build Settings
-markdown: redcarpet
+markdown: kramdown
 permalink: pretty
 highlighter: pygments
 lsi: false
