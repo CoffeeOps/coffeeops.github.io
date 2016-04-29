@@ -3,8 +3,6 @@ title: CoffeeOps
 layout: default
 ---
 
-<h1>CoffeeOps</h1>
-
 <p>  
   Coffeehouses are hubs of information sharing: people gather, share thoughts, learn about happenings, and discuss challenges. Having a place and time to congregate allows people from diverse backgrounds to talk of experiences that can inspire, spark innovation and improve problem solving. 
 </p>
