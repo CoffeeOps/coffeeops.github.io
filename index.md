@@ -38,7 +38,7 @@ Coffeeops aims to bring on the Age of Delightenment fueled by coffee (tea or coc
   <tr>
     <td class="tg-yw4l">Santa Clara, California</td>
     <td class="tg-yw4l">Meets every Wednesday morning<br>8am at Big Mug Coffee Roaster, 3014 El Camino Real.</td>
-    <td class="tg-yw4l"><a href="https://twitter.com/sigje">@sigje</a><A href="https://twitter.com/nekodojo">@nekodojo</a><a href="https://twitter.com/davedash">@davedash</a><a href="https://twitter.com/funjon">@funjon</a></td>
+    <td class="tg-yw4l"><a href="https://twitter.com/sigje">@sigje</a><br><A href="https://twitter.com/nekodojo">@nekodojo</a><br><a href="https://twitter.com/davedash">@davedash</a><br><a href="https://twitter.com/funjon">@funjon</a></td>
   </tr>
   <tr>
     <td class="tg-yw4l">East Bay, California</td>
