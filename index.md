@@ -103,6 +103,11 @@ Coffeeops aims to bring on the Age of Delightenment fueled by coffee (tea or coc
     <td class="tg-yw4l"></td>
     <td class="tg-yw4l"><a href="https://twitter.com/petecheslock">@petecheslock</a> and <a href="https://twitter.com/peternealon">@peternealon</a></td>
   </tr>
+  <tr>
+    <td class="tg-yw4l">Wellington, New Zealand</td>
+    <td class="tg-yw4l"></td>
+    <td class="tg-yw4l"><a href="https://twitter.com/mexisme">@mexisme</a></td>
+  </tr>
 </table>
 <h2>FAQ</h2>
 
