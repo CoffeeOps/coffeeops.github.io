@@ -105,7 +105,7 @@ Coffeeops aims to bring on the Age of Delightenment fueled by coffee (tea or coc
   </tr>
   <tr>
     <td class="tg-yw4l">Wellington, New Zealand</td>
-    <td class="tg-yw4l"></td>
+    <td class="tg-yw4l">Ad-hoc but approx. once a month; arranged via the <a href="https://devopsnz.slack.com">DevOpsNZ Slack</a></td>
     <td class="tg-yw4l"><a href="https://twitter.com/mexisme">@mexisme</a></td>
   </tr>
   <tr>
