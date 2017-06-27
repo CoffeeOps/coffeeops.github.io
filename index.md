@@ -51,7 +51,7 @@ Coffeeops aims to bring on the Age of Delightenment fueled by coffee (tea or coc
   <tr>
     <td class="tg-yw4l">Los Angeles, California</td>
     <td class="tg-yw4l"><a href="http://www.meetup.com/ladevops/">http://www.meetup.com/ladevops/</a></td>
-    <td class="tg-yw4l"><a href="https://twitter.com/solarce">@solarce</a>]</td>
+    <td class="tg-yw4l"><a href="https://twitter.com/solarce">@solarce</a></td>
   </tr>
   <tr>
     <td class="tg-yw4l">Melbourne, Australia</td>
