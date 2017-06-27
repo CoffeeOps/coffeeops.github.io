@@ -121,7 +121,7 @@ Coffeeops aims to bring on the Age of Delightenment fueled by coffee (tea or coc
 </table>
 <h2>FAQ</h2>
 
-* <b>Are there rules or a specific format for coffeeops?</b> No. Each group self organizes and sets the process and agenda (if any). Some groups like Seattle, pre-plan with a specific topic. Other groups like Santa Clara have more ad hoc meetings that are arranged via Twitter and Slack. </li>
+* <b>Is there a specific format for coffeeops?</b> No. Each group self organizes and sets the process and agenda (if any). Some groups like Seattle, pre-plan with a specific topic. Other groups like Santa Clara have more ad hoc meetings that are arranged via Twitter and Slack.
 
 * <b>How do I organize a local coffeeops?</b> Reach out to community through twitter and any local email lists and see who is interested. Pick a time and date and a place with a good environment for talking. Depending on the size of your group, let the venue know ahead of time about the size of your group. Update this website or let [ @sigje ](https://twitter.com/sigje) know.
     
