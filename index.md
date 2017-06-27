@@ -118,6 +118,11 @@ Coffeeops aims to bring on the Age of Delightenment fueled by coffee (tea or coc
     <td class="tg-yw4l"><a href="https://www.meetup.com/SouthernmostTech/">https://www.meetup.com/SouthernmostTech/</a></td>
     <td class="tg-yw4l"><a href="https://twitter.com/cayohuesoval">@cayohuesoval</a><br><a href="https://twitter.com/jqr">@jqr</a></td>
   </tr>
+  <tr>
+    <td class="tg-yw4l">Denver, Colorado</td>
+    <td class="tg-yw4l">Meeting locations and times are at <a href="https://www.meetup.com/Denver-CoffeeOps/">https://www.meetup.com/Denver-CoffeeOps/</a></td>
+    <td class="tg-yw4l"><a href="https://twitter.com/curiousbiped">@curiousbiped</a></td>
+  </tr>
 </table>
 <h2>FAQ</h2>
 
