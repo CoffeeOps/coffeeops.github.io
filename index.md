@@ -120,7 +120,7 @@ Coffeeops aims to bring on the Age of Delightenment fueled by coffee (tea or coc
   </tr>
   <tr>
     <td class="tg-yw4l">Denver, Colorado</td>
-    <td class="tg-yw4l">Meeting locations and times are at <a href="https://www.meetup.com/Denver-CoffeeOps/">https://www.meetup.com/Denver-CoffeeOps/</a></td>
+    <td class="tg-yw4l">Every Thursday from 8am-10am at <a href="http://www.pigtraincoffee.com/">Pigtrain</a> in Union Station. More details at <a href="https://www.meetup.com/Denver-CoffeeOps/">https://www.meetup.com/Denver-CoffeeOps/</a></td>
     <td class="tg-yw4l"><a href="https://twitter.com/curiousbiped">@curiousbiped</a></td>
   </tr>
 </table>
