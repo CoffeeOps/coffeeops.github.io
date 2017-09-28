@@ -123,6 +123,11 @@ Coffeeops aims to bring on the Age of Delightenment fueled by coffee (tea or coc
     <td class="tg-yw4l">Every Thursday from 8am-10am at <a href="http://www.pigtraincoffee.com/">Pigtrain</a> in Union Station. More details at <a href="https://www.meetup.com/Denver-CoffeeOps/">https://www.meetup.com/Denver-CoffeeOps/</a></td>
     <td class="tg-yw4l"><a href="https://twitter.com/curiousbiped">@curiousbiped</a></td>
   </tr>
+  <tr>
+    <td class="tg-yw4l">Chicago, IL</td>
+    <td class="tg-yw4l">First Thursday of the month from 8am-10am at <a href="https://dollopcoffee.com">Dollop Coffee</a> on Monroe (55 W Monroe St). More details at <a href="https://www.meetup.com/CoffeeOps-Chicago/">https://www.meetup.com/CoffeeOps-Chicago/</a></td>
+    <td class="tg-yw4l"><a href="https://twitter.com/parabuzzle">@parabuzzle</a></td>
+  </tr>
 </table>
 <h2>FAQ</h2>
 
