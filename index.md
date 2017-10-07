@@ -60,8 +60,13 @@ Coffeeops aims to bring on the Age of Delightenment fueled by coffee (tea or coc
   </tr>
   <tr>
     <td class="tg-yw4l">Seattle, Washington</td>
-    <td class="tg-yw4l">Bi-weekly on Friday,<a href="http://www.meetup.com/Downtown-Seattle-Friday-Morning-CoffeeOps/">Calendar</a></td>
+    <td class="tg-yw4l">Bi-weekly on Friday, <a href="http://www.meetup.com/Downtown-Seattle-Friday-Morning-CoffeeOps/">Calendar</a>.</td>
     <td class="tg-yw4l"><a href="https://twitter.com/dougireton">@dougireton</a></td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">Eastside, Washington</td>
+    <td class="tg-yw4l">Bi-weekly on Friday, <a href="http://www.meetup.com/Eastside-CoffeeOps/">Calendar</a>.</td>
+    <td class="tg-yw4l"><a href="https://twitter.com/johnharris85">@johnharris85</a></td>
   </tr>
   <tr>
     <td class="tg-yw4l">Beaverton, Oregon</td>
