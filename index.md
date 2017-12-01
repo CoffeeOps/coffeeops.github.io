@@ -128,6 +128,11 @@ Coffeeops aims to bring on the Age of Delightenment fueled by coffee (tea or coc
     <td class="tg-yw4l">First Thursday of the month from 8am-10am at <a href="https://dollopcoffee.com">Dollop Coffee</a> on Monroe (55 W Monroe St). More details at <a href="https://www.meetup.com/CoffeeOps-Chicago/">https://www.meetup.com/CoffeeOps-Chicago/</a></td>
     <td class="tg-yw4l"><a href="https://twitter.com/parabuzzle">@parabuzzle</a></td>
   </tr>
+  <tr>
+    <td class="tg-yw4l">New York, NY (Manhattan)</td>
+    <td class="tg-yw4l">Every other Thursday morning at 8:00am-9:30am. Location TBD. <br><a href="https://www.meetup.com/New-York-CoffeeOps/">https://www.meetup.com/New-York-CoffeeOps/</a></td>
+    <td class="tg-yw4l"></td>
+  </tr>
 </table>
 <h2>FAQ</h2>
 
