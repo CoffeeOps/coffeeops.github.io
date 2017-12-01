@@ -130,7 +130,7 @@ Coffeeops aims to bring on the Age of Delightenment fueled by coffee (tea or coc
   </tr>
   <tr>
     <td class="tg-yw4l">New York, NY (Manhattan)</td>
-    <td class="tg-yw4l">Every other Thursday morning at 8:00am-9:30am. Location TBD. <br><a href="https://www.meetup.com/New-York-CoffeeOps/">https://www.meetup.com/New-York-CoffeeOps/</a></td>
+    <td class="tg-yw4l">Every other Thursday morning at 8:00am-9:30am. Location TBD. <br><a href="https://www.meetup.com/NYC-CoffeeOps/">https://www.meetup.com/NYC-CoffeeOps/</a></td>
     <td class="tg-yw4l"></td>
   </tr>
 </table>
