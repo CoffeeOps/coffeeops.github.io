@@ -80,8 +80,8 @@ Coffeeops aims to bring on the Age of Delightenment fueled by coffee (tea or coc
   </tr>
   <tr>
     <td class="tg-yw4l">Portland, Oregon</td>
-    <td class="tg-yw4l">Alternating Wednesdays at 8:30AM at <a href="https://goo.gl/maps/JVa3B5hccbT2">Simple. Local. Coffee</a>. Check <a href="https://twitter.com/PDXCoffeeOps">@PDXCoffeeOps</a> for details.</td>
-    <td class="tg-yw4l"><a href="https://twitter.com/BillWeiss">@BillWeiss</a> and <a href="https://twitter.com/kitchen">@kitchen</a></td>
+    <td class="tg-yw4l">Erratic schedule, needs another local organizer. Check <a href="https://twitter.com/PDXCoffeeOps">@PDXCoffeeOps</a> for details.</td>
+    <td class="tg-yw4l"><a href="https://twitter.com/BillWeiss">@BillWeiss</a>. Want to help out? Let him know!</td>
   </tr>
   <tr>
     <td class="tg-yw4l">Pittsburgh, Pennsylvania</td>
