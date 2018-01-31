@@ -45,8 +45,8 @@ Coffeeops aims to bring on the Age of Delightenment fueled by coffee (tea or coc
   </tr>
   <tr>
     <td class="tg-yw4l">San Francisco, California</td>
-    <td class="tg-yw4l"><a href="https://t.co/3G6CpHF82k">Calendar</a></td>
-    <td class="tg-yw4l"><a href="https://twitter.com/jamfish728">@jamfish728</a></td>
+    <td class="tg-yw4l"><a href="https://www.google.com/maps/preview#!q=Brickhouse+Cafe+%26+Bar%2C+Brannan+Street%2C+San+Francisco%2C+CA&data=!4m15!2m14!1m13!1s0x80858078a8309d49%3A0x8c5b9cd82e5dc974!3m8!1m3!1d11399!2d-122.4024181!3d37.7786767!3m2!1i1341!2i694!4f13.1!4m2!3d37.779584!4d-122.395135">Brickhouse Cafe</a>, 4th & Brannan St.<br><a href="https://t.co/3G6CpHF82k">Calendar</a></td>
+    <td class="tg-yw4l"><a href="https://twitter.com/jamfish728">@jamfish728</a><br><a href="https://github.com/nreisbeck">nreisb</a></td>
   </tr>
   <tr>
     <td class="tg-yw4l">Los Angeles, California</td>
