@@ -38,7 +38,7 @@ Instances of abusive, harassing, or otherwise unacceptable behavior may be repor
 
 Leaders who do not follow or enforce the Code of Conduct in good faith may face temporary or permanent repercussions as determined by other members of the CoffeeOps leadership team.
 
-If support in resolving the problem is needed contact the Global CoffeeOps Leadership team of Jennifer Davis and Doug Ireton at iennae@gmail.com and dougireton@gmail.com.
+If support in resolving the problem is needed contact the Global CoffeeOps Leadership team at organizers@coffeeops.org.
 
 ## Attribution
 
