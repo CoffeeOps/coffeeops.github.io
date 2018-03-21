@@ -36,12 +36,7 @@ Coffeeops aims to bring on the Age of Delightenment fueled by coffee (tea or coc
   <tr>
     <td class="tg-yw4l"><a href="https://www.google.com/maps/place/Chromatic+Coffee/@37.3239825,-121.9966974,17z">Santa Clara, California</a></td>
     <td class="tg-yw4l">Meets every Wednesday morning<br>8am at Chromatic Coffee.</td>
-    <td class="tg-yw4l"><a href="https://twitter.com/sigje">@sigje</a><br><A href="https://twitter.com/nekodojo">@nekodojo</a><br><a href="https://twitter.com/davedash">@davedash</a><br><a href="https://twitter.com/funjon">@funjon</a></td>
-  </tr>
-  <tr>
-    <td class="tg-yw4l">East Bay, California</td>
-    <td class="tg-yw4l"></td>
-    <td class="tg-yw4l"><a href="https://twitter.com/jamfish728">@jamfish728</a></td>
+    <td class="tg-yw4l"><a href="https://twitter.com/sigje">@sigje</a></td>
   </tr>
   <tr>
     <td class="tg-yw4l">San Francisco, California</td>
@@ -52,11 +47,6 @@ Coffeeops aims to bring on the Age of Delightenment fueled by coffee (tea or coc
     <td class="tg-yw4l">Los Angeles, California</td>
     <td class="tg-yw4l"><a href="http://www.meetup.com/ladevops/">http://www.meetup.com/ladevops/</a></td>
     <td class="tg-yw4l"><a href="https://twitter.com/solarce">@solarce</a></td>
-  </tr>
-  <tr>
-    <td class="tg-yw4l">Melbourne, Australia</td>
-    <td class="tg-yw4l"></td>
-    <td class="tg-yw4l"><a href="https://twitter.com/geekle">@geekle</a></td>
   </tr>
   <tr>
     <td class="tg-yw4l">Seattle, Washington</td>
@@ -74,14 +64,14 @@ Coffeeops aims to bring on the Age of Delightenment fueled by coffee (tea or coc
     <td class="tg-yw4l"></td>
   </tr>
   <tr>
-    <td class="tg-yw4l">Sydney, Australia</td>
-    <td class="tg-yw4l">Tuesday 7am (First Tues of the Month) in 7am @ <a href="https://goo.gl/RinIFT">Table 60</a> - <a href="http://goo.gl/CNo9eB">iCal</a></td>
-    <td class="tg-yw4l"><a href="https://twitter.com/drewkhoury">@drewkhoury</a>, <a href="https://twitter.com/bryceflux">@bryceflux</a></td>
-  </tr>
-  <tr>
     <td class="tg-yw4l">Portland, Oregon</td>
     <td class="tg-yw4l">Meets monthly on the 2nd Thursday of the month from 8:00AM - 10AM at <a href="https://goo.gl/maps/JVa3B5hccbT2">Simple. Local. Coffee</a> in the atrium out back. Check <a href="https://twitter.com/PDXCoffeeOps">@PDXCoffeeOps</a> for details.</td>
     <td class="tg-yw4l"><a href="https://twitter.com/jessicagreben">@JessicaGreben</a>. Want to help out? Let Jessica know!</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">Sydney, Australia</td>
+    <td class="tg-yw4l">Tuesday 7am (First Tues of the Month) in 7am @ <a href="https://goo.gl/RinIFT">Table 60</a> - <a href="http://goo.gl/CNo9eB">iCal</a></td>
+    <td class="tg-yw4l"><a href="https://twitter.com/drewkhoury">@drewkhoury</a>, <a href="https://twitter.com/bryceflux">@bryceflux</a></td>
   </tr>
   <tr>
     <td class="tg-yw4l">Pittsburgh, Pennsylvania</td>
@@ -97,11 +87,6 @@ Coffeeops aims to bring on the Age of Delightenment fueled by coffee (tea or coc
     <td class="tg-yw4l">Boulder, Colorado</td>
     <td class="tg-yw4l"><a href="https://www.google.com/calendar/embed?src=m2n8ubnat9sbluu52majc7ahcs%40group.calendar.google.com&amp;ctz=America/Denver">html</a> <a href="https://www.google.com/calendar/ical/m2n8ubnat9sbluu52majc7ahcs%40group.calendar.google.com/public/basic.ics">iCal</a></td>
     <td class="tg-yw4l"><a href="https://twitter.com/guildner">@guildner</a></td>
-  </tr>
-  <tr>
-    <td class="tg-yw4l">Auckland, New Zealand</td>
-    <td class="tg-yw4l"></td>
-    <td class="tg-yw4l"><a href="https://twitter.com/DefSol">@DefSol</a></td>
   </tr>
   <tr>
     <td class="tg-yw4l">Wellington, New Zealand</td>
@@ -131,9 +116,16 @@ Coffeeops aims to bring on the Age of Delightenment fueled by coffee (tea or coc
   <tr>
     <td class="tg-yw4l">New York, NY (Manhattan)</td>
     <td class="tg-yw4l">Every Thursday morning at 9:00am-10:00am at <a href="http://www.lepainquotidien.com/">Le Pain Quotidian</a> at <a href="https://goo.gl/maps/7mw1S51ej7G2">3 Park Ave between 33/34</a>. More details at <a href="https://www.meetup.com/NYC-CoffeeOps/">https://www.meetup.com/NYC-CoffeeOps/</a>.</td>
-    <td class="tg-yw4l"></td>
+    <td class="tg-yw4l"><a href="https://twitter.com/AClockworkSoul">@AClockworkSoul</a></td>
   </tr>
 </table>
+
+<h3>Past Meetups</h3>
+
+* Melbourne, Australia with <a href="https://twitter.com/geekle">@geekle</a>
+* Auckland, New Zealand with <a href="https://twitter.com/DefSol">@DefSol</a>
+
+
 <h2>FAQ</h2>
 
 * <b>Is there a specific format for coffeeops?</b> No. Each group self organizes and sets the process and agenda (if any). Some groups like Seattle, pre-plan with a specific topic. Other groups like Santa Clara have more ad hoc meetings that are arranged via Twitter and Slack.
