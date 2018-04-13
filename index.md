@@ -115,8 +115,8 @@ Coffeeops aims to bring on the Age of Delightenment fueled by coffee (tea or coc
   </tr>
   <tr>
     <td class="tg-yw4l">New York, NY (Manhattan)</td>
-    <td class="tg-yw4l">Every Thursday morning at 9:00am-10:00am at <a href="http://www.lepainquotidien.com/">Le Pain Quotidian</a> at <a href="https://goo.gl/maps/7mw1S51ej7G2">3 Park Ave between 33/34</a>. More details at <a href="https://www.meetup.com/NYC-CoffeeOps/">https://www.meetup.com/NYC-CoffeeOps/</a>.</td>
-    <td class="tg-yw4l"><a href="https://twitter.com/AClockworkSoul">@AClockworkSoul</a></td>
+    <td class="tg-yw4l">Every Thursday morning at 8:30am-10:00am at <a href="http://www.lepainquotidien.com/">Le Pain Quotidian</a> at <a href="https://goo.gl/maps/HVoBB4a4J4m">931 Broadway between 22nd and 23rd</a>. More details at <a href="https://www.meetup.com/NYC-CoffeeOps/">https://www.meetup.com/NYC-CoffeeOps/</a>.</td>
+    <td class="tg-yw4l"><a href="mailto:nyc@coffeeops.org">Email us!</a></td>
   </tr>
 </table>
 
