@@ -41,7 +41,7 @@ Coffeeops aims to bring on the Age of Delightenment fueled by coffee (tea or coc
   <tr>
     <td class="tg-yw4l">San Francisco, California</td>
     <td class="tg-yw4l"><a href="https://www.google.com/maps/preview#!q=Brickhouse+Cafe+%26+Bar%2C+Brannan+Street%2C+San+Francisco%2C+CA&data=!4m15!2m14!1m13!1s0x80858078a8309d49%3A0x8c5b9cd82e5dc974!3m8!1m3!1d11399!2d-122.4024181!3d37.7786767!3m2!1i1341!2i694!4f13.1!4m2!3d37.779584!4d-122.395135">Brickhouse Cafe</a>, 4th & Brannan St.<br><a href="https://t.co/3G6CpHF82k">Calendar</a></td>
-    <td class="tg-yw4l"><a href="https://twitter.com/jamfish728">@jamfish728</a><br><a href="https://github.com/nreisbeck">nreisb</a></td>
+    <td class="tg-yw4l"><a href="https://github.com/nreisbeck">nreisb</a></td>
   </tr>
   <tr>
     <td class="tg-yw4l">Los Angeles, California</td>
@@ -72,11 +72,6 @@ Coffeeops aims to bring on the Age of Delightenment fueled by coffee (tea or coc
     <td class="tg-yw4l">Sydney, Australia</td>
     <td class="tg-yw4l">Tuesday 7am (First Tues of the Month) in 7am @ <a href="https://goo.gl/RinIFT">Table 60</a> - <a href="http://goo.gl/CNo9eB">iCal</a></td>
     <td class="tg-yw4l"><a href="https://twitter.com/drewkhoury">@drewkhoury</a>, <a href="https://twitter.com/bryceflux">@bryceflux</a></td>
-  </tr>
-  <tr>
-    <td class="tg-yw4l">Pittsburgh, Pennsylvania</td>
-    <td class="tg-yw4l">7:30-9:30am every second Thursday of the month at <a href="https://twitter.com/21street_strip">21st Street Coffee</a>!<Br> Subscribe to our <a href="http://cwe.st/coffeeopspghcal">calendar</a>. Hashtag <a href="https://twitter.com/search?q=%23CoffeeOpsPgh">#CoffeeOpsPgh</a>.</td>
-    <td class="tg-yw4l"><a href="https://twitter.com/caseywest">@caseywest</a></td>
   </tr>
   <tr>
     <td class="tg-yw4l">Alpharetta, Georgia</td>
@@ -119,12 +114,6 @@ Coffeeops aims to bring on the Age of Delightenment fueled by coffee (tea or coc
     <td class="tg-yw4l"><a href="mailto:nyc@coffeeops.org">Email us!</a></td>
   </tr>
 </table>
-
-<h3>Past Meetups</h3>
-
-* Melbourne, Australia with <a href="https://twitter.com/geekle">@geekle</a>
-* Auckland, New Zealand with <a href="https://twitter.com/DefSol">@DefSol</a>
-
 
 <h2>FAQ</h2>
 
