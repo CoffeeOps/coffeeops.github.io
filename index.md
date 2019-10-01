@@ -113,6 +113,11 @@ Coffeeops aims to bring on the Age of Delightenment fueled by coffee (tea or coc
     <td class="tg-yw4l">Every Thursday morning at 8:30am-10:00am at <a href="http://www.lepainquotidien.com/">Le Pain Quotidian</a> at <a href="https://goo.gl/maps/HVoBB4a4J4m">931 Broadway between 22nd and 23rd</a>. More details at <a href="https://www.meetup.com/NYC-CoffeeOps/">https://www.meetup.com/NYC-CoffeeOps/</a>.</td>
     <td class="tg-yw4l"><a href="mailto:nyc@coffeeops.org">Email us!</a></td>
   </tr>
+  <tr>
+    <td class="tg-yw4l">London, UK</td>
+    <td class="tg-yw4l">First Tuesday of the Month at <a href="https://www.thefenceuk.co.uk/">The Fence</a> located at <a href="https://goo.gl/maps/zN3k9AtCDGEYW7g68">67-69, Cowcross St next to Farringdon train station</a>. More details at <a href="https://www.meetup.com/CoffeeOps-London/">https://www.meetup.com/CoffeeOps-London/</a>.</td>
+    <td class="tg-yw4l"><a href="https://twitter.com/a_bangser">Abby Bangser</a></td>
+  </tr>
 </table>
 
 <h2>FAQ</h2>
