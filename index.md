@@ -40,7 +40,7 @@ Coffeeops aims to bring on the Age of Delightenment fueled by coffee (tea or coc
   </tr>
   <tr>
     <td class="tg-yw4l">San Francisco, California</td>
-    <td class="tg-yw4l"> </td>
+    <td class="tg-yw4l">Planning in Progress! Let us know if you're interested!</td>
     <td class="tg-yw4l"><a href="https://github.com/nreisbeck">nreisb</a></td>
   </tr>
   <tr>
@@ -57,11 +57,6 @@ Coffeeops aims to bring on the Age of Delightenment fueled by coffee (tea or coc
     <td class="tg-yw4l">Eastside, Washington</td>
     <td class="tg-yw4l">Bi-weekly on Friday, <a href="http://www.meetup.com/Eastside-CoffeeOps/">Calendar</a>.</td>
     <td class="tg-yw4l"><a href="https://twitter.com/johnharris85">@johnharris85</a></td>
-  </tr>
-  <tr>
-    <td class="tg-yw4l">Beaverton, Oregon</td>
-    <td class="tg-yw4l">2nd Wednesday of every month <a href="http://www.meetup.com/Beaverton-Wednesday-Morning-CoffeeOps/">http://www.meetup.com/Beaverton-Wednesday-Morning-CoffeeOps/</a></td>
-    <td class="tg-yw4l"></td>
   </tr>
   <tr>
     <td class="tg-yw4l">Portland, Oregon</td>
