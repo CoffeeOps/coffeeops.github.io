@@ -65,8 +65,8 @@ Coffeeops aims to bring on the Age of Delightenment fueled by coffee (tea or coc
   </tr>
   <tr>
     <td class="tg-yw4l">Portland, Oregon</td>
-    <td class="tg-yw4l">Meets monthly on the 2nd Thursday of the month from 8:00AM - 10AM at <a href="https://goo.gl/maps/JVa3B5hccbT2">Simple. Local. Coffee</a> in the atrium out back. Check <a href="https://twitter.com/PDXCoffeeOps">@PDXCoffeeOps</a> for details.</td>
-    <td class="tg-yw4l"><a href="https://twitter.com/jessicagreben">@JessicaGreben</a>. Want to help out? Let Jessica know!</td>
+    <td class="tg-yw4l">Bi-weekly on Fridays from 8:00 AM to 9:15 AM at <a href="https://goo.gl/maps/fMuoBnw6hGUUoqab6">Puppet</a>. Check <a href="https://twitter.com/PDXCoffeeOps">@PDXCoffeeOps</a> for details.</td>
+    <td class="tg-yw4l"><a href="https://twitter.com/thelucywyman">@thelucywyman</a></td>
   </tr>
   <tr>
     <td class="tg-yw4l">Sydney, Australia</td>
