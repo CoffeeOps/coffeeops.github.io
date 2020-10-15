@@ -44,6 +44,11 @@ Coffeeops aims to bring on the Age of Delightenment fueled by coffee (tea or coc
     <td class="tg-yw4l"><a href="https://github.com/nreisbeck">nreisb</a></td>
   </tr>
   <tr>
+    <td class="tg-yw4l">Twin Falls, Idaho</td>
+    <td class="tg-yw4l">Planning in Progress! Let us know if you're interested!</td>
+    <td class="tg-yw4l"><a href="https://github.com/erinlkolp">nreisb</a></td>
+  </tr>
+  <tr>
     <td class="tg-yw4l">Seattle, Washington</td>
     <td class="tg-yw4l">Bi-weekly on Friday, <a href="http://www.meetup.com/Downtown-Seattle-Friday-Morning-CoffeeOps/">Calendar</a>.</td>
     <td class="tg-yw4l"><a href="https://twitter.com/dougireton">@dougireton</a></td>
