@@ -46,7 +46,7 @@ Coffeeops aims to bring on the Age of Delightenment fueled by coffee (tea or coc
   <tr>
     <td class="tg-yw4l">Twin Falls, Idaho</td>
     <td class="tg-yw4l">Planning in Progress! Let us know if you're interested!</td>
-    <td class="tg-yw4l"><a href="https://github.com/erinlkolp">nreisb</a></td>
+    <td class="tg-yw4l"><a href="https://github.com/erinlkolp">erinlkolp</a></td>
   </tr>
   <tr>
     <td class="tg-yw4l">Seattle, Washington</td>
