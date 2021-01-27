@@ -122,6 +122,11 @@ Coffeeops aims to bring on the Age of Delightenment fueled by coffee (tea or coc
         <a href="https://twitter.com/tomtucka">Tom Withers</a>
     </td>
   </tr>
+  <tr>
+    <td class="tg-yw4l">Austin, Texas</td>
+    <td class="tg-yw4l"><a target="_blank" href="https://www.meetup.com/austin-coffeeops/">Meetup</a></td>
+    <td class="tg-yw4l"><a target="_blank" href="https://twitter.com/IsraelJCarberry">Israel Carberry</a></td>
+  </tr>
 </table>
 
 <h2>FAQ</h2>
