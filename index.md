@@ -127,6 +127,12 @@ Coffeeops aims to bring on the Age of Delightenment fueled by coffee (tea or coc
     <td class="tg-yw4l"><a target="_blank" href="https://www.meetup.com/austin-coffeeops/">Meetup</a></td>
     <td class="tg-yw4l"><a target="_blank" href="https://twitter.com/IsraelJCarberry">Israel Carberry</a></td>
   </tr>
+  
+  <tr>
+    <td class="tg-yw4l">Campinas, Brazil</td>
+    <td class="tg-yw4l">Ad-hoc but approx. once a month; arranged via the <a href="https://devops-campinas.slack.com/">DevOps Campinas Slack (look for #eventos channel)</a></td>
+    <td class="tg-yw4l"><a href="https://twitter.com/deoandre">@deoandre</a> and <a href="https://twitter.com/andreyevbr">@andreyevbr</a></td>
+  </tr>
 </table>
 
 <h2>FAQ</h2>
