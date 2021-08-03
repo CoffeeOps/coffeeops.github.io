@@ -110,8 +110,11 @@ Coffeeops aims to bring on the Age of Delightenment fueled by coffee (tea or coc
   </tr>
   <tr>
     <td class="tg-yw4l">London, UK</td>
-    <td class="tg-yw4l">First Tuesday of the Month at <a href="https://www.thefenceuk.co.uk/">The Fence</a> located at <a href="https://goo.gl/maps/zN3k9AtCDGEYW7g68">67-69, Cowcross St next to Farringdon train station</a>. More details at <a href="https://www.meetup.com/CoffeeOps-London/">https://www.meetup.com/CoffeeOps-London/</a>.</td>
-    <td class="tg-yw4l"><a href="https://twitter.com/a_bangser">Abby Bangser</a></td>
+    <td class="tg-yw4l">Twice monthly on 1st and 3rd Tuesday. Organised at <a href="https://www.meetup.com/CoffeeOps-London/">https://www.meetup.com/CoffeeOps-London/</a>.</td>
+    <td class="tg-yw4l">
+      <a href="https://twitter.com/a_bangser">Abby Bangser</a>
+      <a href="https://twitter.com/mymisfortune23">Ronan Fitzgerald</a>
+    </td>
   </tr>
   <tr>
    <td class="tg-yw4l">Birmingham, UK</td>
