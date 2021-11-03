@@ -80,9 +80,9 @@ Coffeeops aims to bring on the Age of Delightenment fueled by coffee (tea or coc
   </tr>
   <tr>
     <td class="tg-yw4l">Denver, Colorado</td>
-    <td class="tg-yw4l">Every Thursday between 8 and 10 am at <a href="http://www.monkandmongoose.com/locations/">Monk and Mongoose</a> at 5370 Greenwood Plaza Blvd Suite #109 Greenwood Village, CO 80111 near the Denver Tech Center. More details at <a href="https://www.meetup.com/Denver-CoffeeOps/">https://www.meetup.com/Denver-CoffeeOps/</a></td>
     <td class="tg-yw4l"><a href="https://twitter.com/curiousbiped">@curiousbiped</a></td>
   </tr>
+    <td class="tg-yw4l">Every Thursday between 8 and 930 am online on <a href="https://meet.google.com/nqh-iwkv-gbr">Google Meet</a>.</td>
   <tr>
     <td class="tg-yw4l">Wellington, New Zealand</td>
     <td class="tg-yw4l">Ad-hoc but approx. once a month; arranged via the <a href="https://devopsnz.slack.com">DevOpsNZ Slack</a></td>
