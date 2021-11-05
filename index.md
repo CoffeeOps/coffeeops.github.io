@@ -3,20 +3,17 @@ title: CoffeeOps
 layout: default
 ---
 
-<p>
-  Coffeehouses are hubs of information sharing: people gather, share thoughts, learn about happenings, and discuss challenges. Having a place and time to congregate allows people from diverse backgrounds to talk of experiences that can inspire, spark innovation and improve problem solving.
-</p>
+<p>Coffeehouses are hubs of information sharing: people gather, share thoughts, learn about happenings, and discuss challenges. Having a place and time to congregate allows people from diverse backgrounds to talk of experiences that can inspire, spark innovation and improve problem solving.</p>
+<br>
 
+<p>Coffeeops aims to bring on the Age of Delightenment fueled by coffee (tea or cocoa!), collaboration and cooperation across companies. Coffeeops should be considered part of work, a critical part of preventing stagnation and isolation of the daily grind and help build resilience. Conferences provide some amount of this but are limited in duration and can be too costly for an individual in time and money.</p>
+<br>
 
-<p>
-Coffeeops aims to bring on the Age of Delightenment fueled by coffee (tea or cocoa!), collaboration and cooperation across companies. Coffeeops should be considered part of work, a critical part of preventing stagnation and isolation of the daily grind and help build resilience. Conferences provide some amount of this but are limited in duration and can be too costly for an individual in time and money. </p>
+<p>The bigger your company, the more likely you need regular infusions of external input. Groups working solely within an environment can fail to recognize other ways of doing things, ignoring trends in the industry, duplicating efforts, and expending time and energy in areas that are not business differentiators.</p>
+<br>
 
-
-<p> The bigger your company, the more likely you need regular infusions of external input. Groups working solely within an environment can fail to recognize other ways of doing things, ignoring trends in the industry, duplicating efforts, and expending time and energy in areas that are not business differentiators.</p>
-
-
-<p>If there isn't a local Coffeeops already happening in your area, start one!
-</p>
+<p>If there isn't a local Coffeeops already happening in your area, start one!</p>
+<br>
 
 
 <h2>Local Meetups - USA</h2>
@@ -101,6 +98,7 @@ Coffeeops aims to bring on the Age of Delightenment fueled by coffee (tea or coc
   </tr>
 </table>
 
+
 <h2>Local Meetups - International</h2>
 
 <table class="tg">
@@ -148,6 +146,7 @@ Coffeeops aims to bring on the Age of Delightenment fueled by coffee (tea or coc
   </tr>
 </table>
 
+
 <h2>Virtual Meetups</h2>
 
 <table class="tg">
@@ -163,12 +162,11 @@ Coffeeops aims to bring on the Age of Delightenment fueled by coffee (tea or coc
   </tr>
 </table>
 
+
 <h2>FAQ</h2>
 
 * <b>Is there a specific format for coffeeops?</b> No. Each group self organizes and sets the process and agenda (if any). Some groups like Seattle, pre-plan with a specific topic. Other groups like Santa Clara have more ad hoc meetings that are arranged via Twitter and Slack.
 
 * <b>How do I organize a local coffeeops?</b> Reach out to community through twitter and any local email lists and see who is interested. Pick a time and date and a place with a good environment for talking. Depending on the size of your group, let the venue know ahead of time about the size of your group. Update this website or let [ @sigje ](https://twitter.com/sigje) know.
 
-**Have an event to add to the site? Fork, Update, and Send a Pull Request:**
-
-**[https://github.com/CoffeeOps/coffeeops.github.io](https://github.com/CoffeeOps/coffeeops.github.io)**
+* **Have an event to add to the site? Fork, Update, and Send a Pull Request:**<br>**[https://github.com/CoffeeOps/coffeeops.github.io](https://github.com/CoffeeOps/coffeeops.github.io)**
