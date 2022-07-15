@@ -88,8 +88,13 @@ layout: default
   </tr>
   <tr>
     <td class="tg-yw4l">New York City (Manhattan), NY</td>
-    <td class="tg-yw4l">Every Thursday morning at 8:30am-10:00am at <a href="http://www.lepainquotidien.com/">Le Pain Quotidian</a> at <a href="https://goo.gl/maps/HVoBB4a4J4m">931 Broadway between 22nd and 23rd</a>. More details at <a href="https://www.meetup.com/NYC-CoffeeOps/">https://www.meetup.com/NYC-CoffeeOps/</a>.</td>
-    <td class="tg-yw4l"><a href="mailto:nyc@coffeeops.org">Email us!</a></td>
+    <td class="tg-yw4l">Every Thursday morning at 8:30am-10:00am ET on <a href="https://zoom.us">Zoom</a>.<br/>
+    More details at <a href="https://www.meetup.com/NYC-CoffeeOps">https://www.meetup.com/NYC-CoffeeOps</a>.<br/>
+    <a href="https://calendar.google.com/calendar/u/1?cid=cWlrNjV1aDJhbmplM20wOWxhaDNoYnRwcG9AZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ">Google Calendar</a>,
+    <a href="https://calendar.google.com/calendar/embed?src=qik65uh2anje3m09lah3hbtppo%40group.calendar.google.com&ctz=America%2FNew_York">HTML</a>,
+    <a href="https://calendar.google.com/calendar/ical/qik65uh2anje3m09lah3hbtppo%40group.calendar.google.com/public/basic.ics">iCal</a>.
+    </td>
+    <td class="tg-yw4l">Matt Titmus<br/>(<a href="mailto:nyc@coffeeops.org">Email us!</a>)</td>
   </tr>
   <tr>
     <td class="tg-yw4l">Austin, TX</td>
