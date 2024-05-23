@@ -32,9 +32,14 @@ layout: default
     <th class="tg-yw4l">Coordinators</th>
   </tr>
   <tr>
-    <td class="tg-yw4l"><a href="https://www.google.com/maps/place/Chromatic+Coffee/@37.3239825,-121.9966974,17z">Santa Clara, CA</a></td>
-    <td class="tg-yw4l">Meets every Wednesday morning<br>8am at Chromatic Coffee.</td>
+    <td class="tg-yw4l">Santa Clara, CA</td>
+    <td class="tg-yw4l">TBD</td>
     <td class="tg-yw4l"><a href="https://twitter.com/sigje">@sigje</a></td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">(South) San Jose, CA</td>
+    <td class="tg-yw4l">Wednesdays (sporatic)</td>
+    <td class="tg-yw4l"><a href="https://twitter.com/davedash">@davedash</a></td>
   </tr>
   <tr>
     <td class="tg-yw4l">San Francisco, CA</td>
