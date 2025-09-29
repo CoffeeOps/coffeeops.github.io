@@ -151,8 +151,8 @@ layout: default
   </tr>
   <tr>
     <td class="tg-yw4l">Campinas, BR</td>
-    <td class="tg-yw4l">Ad-hoc but approx. once a month; arranged via the <a href="https://devops-campinas.slack.com/">DevOps Campinas Slack (look for #eventos channel)</a></td>
-    <td class="tg-yw4l"><a href="https://twitter.com/deoandre">@deoandre</a> and <a href="https://twitter.com/andreyevbr">@andreyevbr</a></td>
+    <td class="tg-yw4l">Always on the third Saturday of every month, arranged via the <a href="https://coffeeopscampinassp.github.io/">DevOps Campinas SP Home Page</a></td>
+    <td class="tg-yw4l"><a href="https://github.com/orgs/CoffeeOpsCampinasSP/people">CoffeeOps Campinas SP maintainers</a></td>
   </tr>
 </table>
 
