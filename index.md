@@ -157,22 +157,6 @@ layout: default
 </table>
 
 
-<h2>Virtual Meetups</h2>
-
-<table class="tg">
-  <tr>
-    <th class="tg-yw4l">Location</th>
-    <th class="tg-yw4l">Details</th>
-    <th class="tg-yw4l">Coordinators</th>
-  </tr>
-  <tr>
-    <td class="tg-yw4l">Eastern USA (GMT-04)</td>
-    <td class="tg-yw4l">Weekly on Tuesdays. <a href="https://calendar.google.com/calendar/embed?src=c_v46tmvmu7qfem5it2tlj4r7dlg%40group.calendar.google.com&ctz=America%2FNew_York">HTML</a>&nbsp;<a href="https://calendar.google.com/calendar/ical/c_v46tmvmu7qfem5it2tlj4r7dlg%40group.calendar.google.com/public/basic.ics">iCal</a></td>
-    <td class="tg-yw4l"><a href="https://twitter.com/obfuscurity">Jason Dixon</a></td>
-  </tr>
-</table>
-
-
 <h2>FAQ</h2>
 
 * <b>Is there a specific format for coffeeops?</b> No. Each group self organizes and sets the process and agenda (if any). Some groups like Seattle, pre-plan with a specific topic. Other groups like Santa Clara have more ad hoc meetings that are arranged via Twitter and Slack.
